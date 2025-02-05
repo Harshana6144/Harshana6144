@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:navodhchathuranga@gmail.com">
+  <a href="mailto:harshana7096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/navodh-chathuranga-38a467213/" target="_blank">
@@ -59,7 +59,8 @@
 <br>
 
  ![Harshana's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Harshana6144&theme=redical&hide_border=true&area=true)
-| ![Harshana's github stats](https://github-readme-stats.vercel.app/api?username=Harshana6144&show_icons=true&theme=radical)             | ![Harshana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshana6144&theme=radical)                                                                                                           |
+| ![Harshana's github stats](https://github-readme-stats.vercel.app/api?username=Harshana6144&show_icons=true&theme=radical)    
+| ![Harshana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshana6144&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana6144&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Harshana6144&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 

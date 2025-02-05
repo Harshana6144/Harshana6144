@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harshana.harshana" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings and salutations!+👋;+Harshana+Prasad+✌️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings+and+salutations!+👋;+Harshana+Prasad+✌️;" />
 </h1>
 
 <h3 align="center">A passionate DevOps and Mobile App Developer skilled in Frontend and Backend Development, React, Linux, Firebase, MongoDB, AWS and Networking.</h3>

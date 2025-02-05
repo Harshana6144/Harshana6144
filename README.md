@@ -1,22 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harshana.harshana" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+Harshana+Prasad+✌️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+Harshana+Prasad+✌️;" />
 </h1>
 
-<h3 align="center">A passionate Web developer skilled in HTML, CSS, JavaScript, and React.</h3>
+<h3 align="center">A passionate DevOps and Mobile App Developer skilled in Frontend and Backend Development, React, Linux, Firebase, MongoDB, AWS and Networking.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a react communication app**
+ 🔭 I’m currently developing **a mobile app to enhance user experience and functionality.**
  
- 🌱 I’m currently learning **React, Tailwind, Next.JS**
+ 🌱 I’m currently learning **Devops, Flutter, Networking, Linux**
 
- 💬 Ask me about **HTML, CSS, JS, React... or anything [here](https://github.com/ncyapa/ncyapa/issues)**
-
- ⚡ Fun fact **The term "debugging" originated from Grace Hopper's actual removal of a moth from a computer in 1947, and ever since, fixing code issues has been known as debugging.**
+ 💡 Fun fact: **The first-ever computer bug was a real insect! In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, coining the term "debugging" for fixing code issues.** 🦋
  
  </div>
  
@@ -24,22 +22,20 @@
   <a href="mailto:harshana7096@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/navodh-chathuranga-38a467213/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshana-prasad-ba423a218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ncyapa.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000a78?style=for-the-badge&logo=Safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
+  </div>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,css,sass,bootstrap,tailwind,materialui" />
     <img src="https://skillicons.dev/icons?i=git,github,html,php,py,java,js,react,vite,nextjs,mysql" />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,powershell,linux,arduino,postman,unreal,visualstudio,vscode,codepen,discord,linkedin" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,powershell,linux,arduino,postman,unreal,visualstudio,vscode,codepen,discord,linkedin" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,flutter,androidstudio,firebase,ubuntu,centos" />
+    <br>
 </div>
 
 <br/>

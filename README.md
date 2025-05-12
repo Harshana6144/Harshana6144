@@ -33,8 +33,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,css,sass,bootstrap,tailwind,materialui"/>
     <img src="https://skillicons.dev/icons?i=git,github,html,php,py,java,js,react,vite,nextjs,mysql,angular"/>
-    <img src="https://skillicons.dev/icons?i=,powershell,linux,visualstudio,vscode,discord,linkedin"/>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,flutter,androidstudio,firebase,ubuntu,aws,windows,azure"/>
+    <img src="https://skillicons.dev/icons?i=docker,powershell,linux,visualstudio,vscode,discord,linkedin"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes,flutter,androidstudio,firebase,ubuntu,aws,windows,azure"/>
 </div>
 
 <br/>
